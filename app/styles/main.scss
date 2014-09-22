@@ -2,6 +2,20 @@ $icon-font-path: "../bower_components/bootstrap-sass-official/assets/fonts/boots
 // bower:scss
 @import "bootstrap-sass-official/assets/stylesheets/_bootstrap.scss";
 // endbower
+.imgDesc{
+  padding: 4px;
+margin-bottom: 20px;
+line-height: 1.428571429;
+background-color: white;
+border: 1px solid #dddddd;
+border-radius: 4px;
+transition: all 0.2s ease-in-out;
+height: 435px;
+display: inline-block;
+width: 25%;
+float: left;
+
+}
 
 .browsehappy {
   margin: 0.2em 0;
